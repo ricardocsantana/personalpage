@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhNotes on Ricardo Santana</title>
+    <link>http://localhost:60705/personalpage/series/phnotes/</link>
+    <description>Recent content in PhNotes on Ricardo Santana</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 May 2025 22:14:14 +0200</lastBuildDate>
+    <atom:link href="http://localhost:60705/personalpage/series/phnotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>21 Lessons from 21 Months at McKinsey</title>
+      <link>http://localhost:60705/personalpage/posts/21/</link>
+      <pubDate>Sat, 31 May 2025 22:14:14 +0200</pubDate>
+      <guid>http://localhost:60705/personalpage/posts/21/</guid>
+      <description>&lt;h2 id=&#34;mindset--foundation&#34;&gt;&lt;strong&gt;MINDSET &amp;amp; FOUNDATION&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-you-can-stand-in-any-room&#34;&gt;1. You can stand in any room&lt;/h3&gt;&#xA;&lt;p&gt;Build the confidence and competence to contribute meaningfully in any business context, regardless of your background or experience level.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-always-have-a-point-of-view&#34;&gt;2. Always have a point of view&lt;/h3&gt;&#xA;&lt;p&gt;Never show up empty-handed. Form hypotheses based on available data and give stakeholders something concrete to react to, even when information is incomplete.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-feedback-is-a-gift&#34;&gt;3. Feedback is a gift&lt;/h3&gt;&#xA;&lt;p&gt;Embrace all feedback as an opportunity to improve. The best consultants actively seek input and view criticism as valuable intelligence.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

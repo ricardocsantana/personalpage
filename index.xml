@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricardo Santana</title>
+    <link>https://ricardocsantana.com/</link>
+    <description>Recent content on Ricardo Santana</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ricardocsantana.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ricardocsantana.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ricardocsantana.com/about/</guid>
+      <description>&lt;h2 id=&#34;academic-background&#34;&gt;Academic Background&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Building technology that adapts to people, not the other way around&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I’m a &lt;strong&gt;Ph.D. candidate in Multimodal AI and Human-Robot Interaction&lt;/strong&gt; at &lt;a href=&#34;https://www.kth.se/&#34;&gt;KTH&lt;/a&gt; (Department of Intelligent Systems) and the &lt;a href=&#34;https://wasp-sweden.org/industrial-cooperation/research-arenas/wara-media-and-language/&#34;&gt;Media &amp;amp; Language Research Arena&lt;/a&gt; (WASP), supervised by &lt;a href=&#34;https://www.kth.se/profile/atap?l=en&#34;&gt;Dr. Pereira&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My research focuses on integrating representation learning and large language models (LLMs) for &lt;strong&gt;seamless collaboration between humans and machines&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I earned my &lt;strong&gt;M.Sc. in Aerospace Engineering&lt;/strong&gt; from &lt;a href=&#34;https://www.tudelft.nl/en/&#34;&gt;TU Delft&lt;/a&gt;, where I applied deep reinforcement learning to autonomous air traffic management, advised by &lt;a href=&#34;https://www.tudelft.nl/staff/o.a.sharpanskykh/&#34;&gt;Dr. Sharpanskykh&lt;/a&gt; and &lt;a href=&#34;https://web.seas.gwu.edu/pwei/&#34;&gt;Dr. Wei&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://ricardocsantana.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ricardocsantana.com/privacy/</guid>
+      <description>&lt;h2 id=&#34;analytics&#34;&gt;Analytics&lt;/h2&gt;&#xA;&lt;p&gt;This site uses &lt;strong&gt;Umami Analytics&lt;/strong&gt;, a privacy-focused tool that does not use cookies to track you. Umami collects only aggregated, anonymized data to help me understand website usage without identifying you personally. This approach aligns with GDPR requirements for data minimization and privacy protection.&lt;/p&gt;&#xA;&lt;h2 id=&#34;email-collection&#34;&gt;Email Collection&lt;/h2&gt;&#xA;&lt;p&gt;If you choose to subscribe to notifications about new posts via our &lt;a href=&#34;https://ricardocsantana.com/subscribe/&#34;&gt;subscription form&lt;/a&gt; powered by &lt;strong&gt;Buttondown&lt;/strong&gt;, you may provide your email address. Providing your email is entirely optional, and you may unsubscribe at any time using the opt-out or unsubscribe link included in every notification email.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Subscribe</title>
+      <link>https://ricardocsantana.com/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ricardocsantana.com/subscribe/</guid>
+      <description>&lt;p&gt;Subscribe for email alerts about new posts:&lt;/p&gt;&#xA;&lt;form action=&#34;https://buttondown.com/api/emails/embed-subscribe/ricardosantana&#34; method=&#34;post&#34; target=&#34;popupwindow&#34;&#xA;    onsubmit=&#34;window.open(&#39;https://buttondown.com/ricardosantana&#39;, &#39;popupwindow&#39;)&#34;&gt;&#xA;    &lt;input style=&#34;padding: 15px; width: 100%; border: solid 1px; border-radius: 8px;&#34; type=&#34;email&#34; name=&#34;email&#34;&#xA;        placeholder=&#34;Enter your email&#34; required&gt;&#xA;    &lt;button class=&#34;btn mt-3 mb-3 w-full&#34; type=&#34;submit&#34;&gt;Subscribe&lt;/button&gt;&#xA;    &lt;a class=&#34;text-xs uppercase opacity-60&#34; style=&#34;text-decoration: none;&#34;&#xA;        href=&#34;https://buttondown.com/refer/ricardosantana&#34;&gt;Powered by Buttondown&lt;/a&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+  </channel>
+</rss>
